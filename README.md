@@ -1,3 +1,3 @@
 # Usage
 
-brew tap kormoc/homebrew
+brew tap kormoc/kormoc
